@@ -21,16 +21,27 @@ Este site é um sistema empresarial desenvolvido com foco em eficiência e gest�
 ## Tutorial de instalação até a execução do site 💻
 
 •  Instalar o arquivo .zip na aba "Code" deste repositório 
+
 •  Extrair o arquivo
+
 •  Instalar o Xampp em seu computador
+
 •  Iniciar o Xampp e clicar em iniciar "Apache" e "MySql"
+
 •  Colocar a pasta "Sistema1" dentro da pasta "htdocs" do xampp
+
 •  Copiar o banco de dados no arquivo .txt 
+
 •  Criar um banco de dados clicando em "Novo" dentro do site | http://localhost/phpmyadmin/index.php?route=/server/databases
+
 •  Definir o nome de "meubanco" e clicar em SQL
+
 •  Colar os códigos que estavam dentro do arquivo .txt
+
 •  Clicar em executar
+
 •  Após isso, cole este link em seu navegador e desfrute do site | http://localhost/sistema1/
+
 
 
 
