@@ -6,7 +6,7 @@ Este site é um sistema empresarial desenvolvido com foco em eficiência e gest�
 
 ### Vídeo de funcionamento do site no link abaixo
 
-https://drive.google.com/file/d/1FDghxnDAWtUKevNWGLglAY7oBwU0rBCg/view?usp=sharing
+https://drive.google.com/file/d/17pa_F3HqW3flDPWBb9DUklOjPbyzZuwo/view?usp=sharing
 
 ## Tutorial de instalação até a execução do site 💻
 
