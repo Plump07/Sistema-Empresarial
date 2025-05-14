@@ -32,6 +32,11 @@ https://drive.google.com/file/d/1FDghxnDAWtUKevNWGLglAY7oBwU0rBCg/view?usp=shari
 
 •  Após isso, cole este link em seu navegador e desfrute do site | http://localhost/sistema1/login.php
 
+## Login
+
+Usuario: Sandro
+Senha: 1234
+
 
 
 
