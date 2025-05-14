@@ -20,13 +20,13 @@ https://drive.google.com/file/d/1FDghxnDAWtUKevNWGLglAY7oBwU0rBCg/view?usp=shari
 
 •  Colocar a pasta "Sistema1" dentro da pasta "htdocs" do xampp
 
-•  Recortar o banco de dados nos arquivos .sql
+•  Copiar os arquivos .sql
 
 •  Criar um banco de dados clicando em "Novo" dentro do site | http://localhost/phpmyadmin/index.php?route=/server/databases
 
 •  Definir o nome de "meubanco" e clicar em Exportar
 
-•  Colar os arquivos .sql que você recortou
+•  Colar os arquivos .sql que você copiou em importar
 
 •  Clicar em executar
 
